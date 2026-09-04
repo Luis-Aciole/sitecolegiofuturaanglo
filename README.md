@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Site institucional profissional para o Colegio Futura Anglo - Ensino Fundamental e Medio em Vrzea Paulista, SP.
+  Site institucional profissional para o Colegio Futura Anglo - Ensino Fundamental e Médio em Várzea Paulista, SP.
 </p>
 
 <p align="center">
@@ -24,9 +24,9 @@
 
 ## Sobre o Projeto
 
-O site do **Colegio Futura Anglo** foi desenvolvido do zero utilizando tecnologias web puras (HTML5, CSS3 e JavaScript vanilla), sem o uso de frameworks ou bibliotecas externas. O projeto foi pensado para ser **profissional, chamativo e altamente responsivo**, atendendo dispositivos moveis, tablets e desktops.
+O site do **Colégio Futura Anglo** foi desenvolvido do zero utilizando tecnologias web puras (HTML5, CSS3 e JavaScript vanilla), sem o uso de frameworks ou bibliotecas externas. O projeto foi pensado para ser **profissional, chamativo e altamente responsivo**, atendendo dispositivos moveis, tablets e desktops.
 
-O site apresenta informacoes sobre o colegio, seus cursos (Ensino Fundamental e Medio), infraestrutura, metodologia pedagogica e formulario de contato para matriculas.
+O site apresenta informações sobre o colégio, seus cursos (Ensino Fundamental e Médio), infraestrutura, metodologia pedagogica e formulário de contato para matriculas.
 
 ---
 
