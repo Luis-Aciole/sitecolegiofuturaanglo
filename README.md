@@ -186,7 +186,7 @@ O site foi construido com abordagem **Mobile-First** e utiliza 3 breakpoints:
 ### Licenca
 Este projeto esta sob a licenca MIT.
 <p align="center">
-  Desenvolvido com dedicacao para o <strong>Colegio Futura Anglo</strong> - Vrzea Paulista, SP
+  Desenvolvido com dedicacao para o <strong>Colegio Futura Anglo</strong> - Várzea Paulista, SP
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Feito%20com-HTML5%20%7C%20CSS3%20%7C%20JS-blue?style=for-the-badge" alt="Feito com HTML5, CSS3 e JS">
